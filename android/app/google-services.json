@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "995568985713",
+    "firebase_url": "https://prueba2-moviles-default-rtdb.firebaseio.com",
+    "project_id": "prueba2-moviles",
+    "storage_bucket": "prueba2-moviles.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995568985713:android:b9b0fd73361b57434a1dd0",
+        "android_client_info": {
+          "package_name": "com.example.prueba2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEUh7S-e9Y4NK00_U_z3IoNTprhIO4bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
